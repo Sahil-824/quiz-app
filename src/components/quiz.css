@@ -54,8 +54,10 @@
 .quiz .correct{
     background-color: rgb(180, 249, 180);
     outline: 1px solid rgb(44, 162, 44);
+    cursor:no-drop;
 }
 .quiz .wrong{
     background-color: rgb(249, 207, 207);
     outline: 1px solid rgb(219, 98, 98);
+    cursor: no-drop;
 }
